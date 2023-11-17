@@ -1,3 +1,3 @@
-function sumar (a,b) {
-    return a+b   
+function sumar (num,num2) {
+    return num + num2  
 }
