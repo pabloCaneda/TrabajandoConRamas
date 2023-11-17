@@ -1,5 +1,3 @@
-function restar (num,num2) {
-    return num - num2   
+function restar (a,b) {
+    return a - b   
 }
-
-module.exports = restar
